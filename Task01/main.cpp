@@ -1,4 +1,4 @@
-#include <iostream>
+п»ї#include <iostream>
 #include <time.h>
 #include "utils.h"
 #include "sort.h"
@@ -7,7 +7,7 @@
 
 using namespace std;
 
-// Комментарий
+// РљРѕРјРјРµРЅС‚Р°СЂРёР№
 int main()
 {
 	srand(time(0));
