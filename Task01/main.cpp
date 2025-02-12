@@ -3,7 +3,7 @@
 #include "utils.h"
 #include "sort.h"
 
-#define SIZE 20
+#define SIZE 10
 
 using namespace std;
 
@@ -17,7 +17,7 @@ int main()
 
 	cout << "Before: " << array_to_string(numbers, SIZE) << endl;
 
-	bubble_sort(numbers, SIZE);
+	selected_sort(numbers, SIZE);
 
 	cout << "After: " << array_to_string(numbers, SIZE) << endl;
 
