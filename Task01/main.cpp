@@ -7,6 +7,7 @@
 
 using namespace std;
 
+// Комментарий
 int main()
 {
 	srand(time(0));
